@@ -1,16 +1,7 @@
-# Proyecto_Organizacion_de_Computadores
-
-Tema de proyecto: Simulador de Fase de Grupos del Mundial 
-OBJETIVOS:
-• Implementar un programa usando un lenguaje de nivel medio para comprender la ejecución de las instrucciones llevadas a cabo por el procesador.  
-• Investigar nuevas instrucciones para el uso de diferentes tipos y estructuras de datos.  
-• Diseñar e implementar funciones que mejoren la modularidad, organización y reutilización del código. 
-• Implementar un algoritmo de ordenamiento. (Bubble Sort)  
+# Simulador de Fase de Grupos del Mundial 
 
 DESCRIPCIÓN GENERAL:
 Durante la Copa Mundial de la FIFA 2026, los equipos compiten inicialmente en una fase de grupos. Cada grupo está conformado por 4 selecciones nacionales, las cuales juegan entre sí. Los equipos obtienen puntos de acuerdo con los resultados de cada partido y, al finalizar la fase, se genera una tabla de posiciones para determinar los clasificados a la siguiente etapa. 
-
-TRABAJO: Desarrollar un programa que simule la fase de grupos de un mundial de fútbol, genere automáticamente los resultados de los partidos, construya la tabla de posiciones y determine los equipos clasificados. 
 
 Fase 0 – Equipos 
 1. Crear un arreglo que contenga los nombres de los países que participan del Mundial de Futbol 2026.  
@@ -36,9 +27,3 @@ Fase 1. En caso de igualdad de puntos, el desempate es por diferencia de goles (
 
 Fase 3  - Clasificación 
 Muestre por pantalla los equipos que clasifican a la siguiente etapa. (Los 2 primeros en la tabla de posiciones) 
-
-
-CONSIDERACIONES: 
-• El proyecto debe ser implementado usando funciones.  
-• La estructura visual y el diseño de la simulación quedan a criterio de cada grupo. 
-• Deberá validar los datos ingresados por el usuario. 
